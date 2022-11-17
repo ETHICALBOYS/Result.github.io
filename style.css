@@ -1,0 +1,26 @@
+body{
+    font-family: tahoma;
+    font-size: 11px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    background-color: rgba(255,0,0,.5);
+    padding: 10px 20px;
+    border-style:outset ;
+    border: width 5px;
+    border-color: rgb(112, 99, 124);
+    top: 10px;
+}
+a:link{
+    color:green;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color:white;
+}
+a:active{
+    color:yellow;
+}
