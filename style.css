@@ -6,7 +6,7 @@ body{
 a{
     text-decoration: none;
     background-color: rgba(255,0,0,.5);
-    padding: 10px 20px;
+    padding: 20px 20px;
     border-style:outset ;
     border: width 5px;
     border-color: rgb(112, 99, 124);
@@ -16,7 +16,7 @@ a:link{
     color:green;
 }
 a:visited{
-    color: red;
+    color: black;
 }
 a:hover{
     color:white;
